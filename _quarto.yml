@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Traducciones"
+  site-url: "https://lazlowicz.github.io/traducciones/"
+  repo-url: "https://github.com/lazlowicz/traducciones"
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+
+lang: es-AR
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.scss
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    anchor-sections: true
+    reference-location: margin
+    citation-location: margin
+    cap-location: margin
+    grid:
+      sidebar-width: 250px
+      body-width: 760px
+      margin-width: 280px
+      gutter-width: 1.5rem
+
+execute:
+  freeze: auto

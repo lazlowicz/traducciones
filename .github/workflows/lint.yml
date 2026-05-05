@@ -1,0 +1,20 @@
+name: Revisar textos
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar mise
+        uses: jdx/mise-action@v2
+
+      - name: Revisar erratas y estilo
+        run: mise run check

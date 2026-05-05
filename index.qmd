@@ -1,0 +1,20 @@
+---
+title: "Traducciones"
+description: "Publicaciones y traducciones."
+---
+
+Bienvenida/o al sitio de traducciones.
+
+Este repositorio está configurado con Quarto para publicar en GitHub Pages y para escribir en castellano rioplatense.
+
+## Notas al margen
+
+Las notas al pie se muestran en el margen cuando hay espacio disponible.^[Esta es una nota al margen creada con una nota al pie de Quarto.]
+
+También podés crear contenido lateral explícito:
+
+::: {.column-margin}
+Esta caja vive en el margen. Sirve para aclaraciones breves, referencias o comentarios editoriales.
+:::
+
+El texto principal sigue acá, con el ancho de lectura configurado para dejar espacio a las notas marginales.

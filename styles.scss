@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+$font-size-root: 18px;
+$line-height-base: 1.6;
+
+/*-- scss:rules --*/
+body {
+  text-rendering: optimizeLegibility;
+}
+
+.quarto-title-block .description,
+.margin-caption,
+.column-margin,
+.aside,
+.sidebar.margin-sidebar {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.column-margin {
+  color: var(--bs-secondary-color);
+  border-left: 2px solid var(--bs-border-color);
+  padding-left: 0.75rem;
+}
+
+.footnotes-aside {
+  color: var(--bs-secondary-color);
+}

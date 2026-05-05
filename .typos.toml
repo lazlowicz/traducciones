@@ -1,0 +1,25 @@
+[files]
+extend-exclude = [
+  "_site/**",
+  ".quarto/**",
+  ".git/**",
+]
+
+[default]
+check-filename = true
+check-file = true
+
+[default.extend-words]
+"Quarto" = "Quarto"
+"GitHub" = "GitHub"
+"mise" = "mise"
+"typos" = "typos"
+"rioplatense" = "rioplatense"
+"voseo" = "voseo"
+"vos" = "vos"
+"sos" = "sos"
+"tenés" = "tenés"
+"podés" = "podés"
+"hacés" = "hacés"
+"decís" = "decís"
+"querés" = "querés"

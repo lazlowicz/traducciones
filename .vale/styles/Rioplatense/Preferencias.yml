@@ -1,0 +1,14 @@
+extends: substitution
+message: "Preferí '%s' en castellano rioplatense."
+level: suggestion
+ignorecase: true
+swap:
+  tú: vos
+  eres: sos
+  sois: son
+  vosotros: ustedes
+  vosotras: ustedes
+  ordenador: computadora
+  móvil: celular
+  vale: dale
+  debéis: tienen que

@@ -1,0 +1,12 @@
+extends: existence
+message: "Revisá si corresponde voseo rioplatense en vez de '%s'."
+level: warning
+ignorecase: true
+tokens:
+  - '\btú\b'
+  - '\beres\b'
+  - '\btienes\b'
+  - '\bpuedes\b'
+  - '\bhaz\b'
+  - '\bdebes\b'
+  - '\bvosotr(?:os|as)\b'

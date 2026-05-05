@@ -1,0 +1,13 @@
+extends: substitution
+message: "Si no es un término técnico o una cita, considerá '%s'."
+level: suggestion
+ignorecase: true
+swap:
+  link: enlace
+  post: publicación
+  setup: configuración
+  deploy: despliegue
+  release: versión
+  issue: incidencia
+  pull request: solicitud de cambios
+  markdown: Markdown

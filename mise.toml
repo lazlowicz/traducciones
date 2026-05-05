@@ -1,0 +1,31 @@
+[tools]
+"aqua:quarto-dev/quarto-cli" = "1.7.32"
+"aqua:errata-ai/vale" = "3.12.0"
+"aqua:crate-ci/typos" = "1.31.1"
+
+[env]
+QUARTO_PROFILE = "local"
+
+[tasks.preview]
+description = "Levanta Quarto en modo vista previa"
+run = "quarto preview --host 127.0.0.1 --port 4321"
+
+[tasks.render]
+description = "Renderiza el sitio Quarto en _site/"
+run = "quarto render"
+
+[tasks.check]
+description = "Corre typos y vale"
+depends = ["typos", "vale"]
+
+[tasks.typos]
+description = "Revisa erratas con typos"
+run = "typos"
+
+[tasks.vale]
+description = "Revisa estilo en castellano rioplatense con Vale"
+run = "vale ."
+
+[tasks.clean]
+description = "Borra artefactos generados por Quarto"
+run = "rm -rf _site .quarto"

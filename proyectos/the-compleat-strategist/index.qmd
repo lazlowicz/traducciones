@@ -1,0 +1,21 @@
+---
+title: "The Compleat Strategist"
+description: "Traducción de *The Compleat Strategist* de J. D. Williams."
+author: "J. D. Williams"
+---
+
+## Sobre la obra
+
+*The Compleat Strategist: Being a Primer on the Theory of Games of Strategy* (1954) de J. D. Williams es una introducción amena a la teoría de juegos, escrita para personas sin formación matemática previa.
+
+## Estado de la traducción
+
+- [ ] Prefacio
+- [ ] Capítulo 1
+- [ ] …
+
+## Notas de traducción
+
+::: {.column-margin}
+Anotá acá decisiones terminológicas, dudas y referencias.
+:::

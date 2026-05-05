@@ -1,0 +1,21 @@
+---
+title: "Everything and More"
+description: "Traducción de *Everything and More: A Compact History of ∞* de David Foster Wallace."
+author: "David Foster Wallace"
+---
+
+## Sobre la obra
+
+*Everything and More: A Compact History of ∞* (2003) de David Foster Wallace es una historia divulgativa del infinito matemático, con la prosa y las notas al pie características de DFW.
+
+## Estado de la traducción
+
+- [ ] Foreword
+- [ ] §1 …
+- [ ] …
+
+## Notas de traducción
+
+::: {.column-margin}
+Las notas al pie y los apartes son parte del estilo: aprovechá `reference-location: margin` para mantenerlas visibles.
+:::

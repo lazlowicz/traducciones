@@ -1,0 +1,21 @@
+---
+title: "The Society of Mind"
+description: "Traducción de *The Society of Mind* de Marvin Minsky."
+author: "Marvin Minsky"
+---
+
+## Sobre la obra
+
+*The Society of Mind* (1986) de Marvin Minsky propone que la mente emerge de la interacción de muchos agentes simples. Está organizada en 270 ensayos breves de una página cada uno.
+
+## Estado de la traducción
+
+- [ ] Prólogo
+- [ ] §1 …
+- [ ] …
+
+## Notas de traducción
+
+::: {.column-margin}
+Conviene mantener la estructura de una idea por página del original.
+:::

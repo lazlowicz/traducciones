@@ -18,3 +18,12 @@ Esta caja vive en el margen. Sirve para aclaraciones breves, referencias o comen
 :::
 
 El texto principal sigue acá, con el ancho de lectura configurado para dejar espacio a las notas marginales.
+
+## Proyectos
+
+- [The Compleat Strategist](proyectos/the-compleat-strategist/index.qmd) — J. D. Williams
+- [The Society of Mind](proyectos/the-society-of-mind/index.qmd) — Marvin Minsky
+- [How to Solve It](proyectos/how-to-solve-it/index.qmd) — George Pólya
+- [Everything and More](proyectos/everything-and-more/index.qmd) — David Foster Wallace
+
+Ver el [listado completo](proyectos/index.qmd).

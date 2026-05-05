@@ -1,0 +1,21 @@
+---
+title: "How to Solve It"
+description: "Traducción de *How to Solve It* de George Pólya."
+author: "George Pólya"
+---
+
+## Sobre la obra
+
+*How to Solve It* (1945) de George Pólya es un clásico sobre heurística matemática y resolución de problemas.
+
+## Estado de la traducción
+
+- [ ] Prefacio
+- [ ] Parte I — En el aula
+- [ ] …
+
+## Notas de traducción
+
+::: {.column-margin}
+Existen traducciones previas al castellano peninsular; cotejá con cuidado.
+:::

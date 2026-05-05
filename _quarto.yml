@@ -11,6 +11,25 @@ website:
     left:
       - href: index.qmd
         text: Inicio
+      - href: proyectos/index.qmd
+        text: Proyectos
+  sidebar:
+    - title: "Proyectos"
+      style: "docked"
+      contents:
+        - proyectos/index.qmd
+        - section: "The Compleat Strategist"
+          contents:
+            - proyectos/the-compleat-strategist/index.qmd
+        - section: "The Society of Mind"
+          contents:
+            - proyectos/the-society-of-mind/index.qmd
+        - section: "How to Solve It"
+          contents:
+            - proyectos/how-to-solve-it/index.qmd
+        - section: "Everything and More"
+          contents:
+            - proyectos/everything-and-more/index.qmd
 
 lang: es-AR
 

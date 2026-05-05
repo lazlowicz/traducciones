@@ -1,0 +1,15 @@
+---
+title: "Proyectos"
+description: "Traducciones en curso al castellano rioplatense."
+listing:
+  contents:
+    - the-compleat-strategist/index.qmd
+    - the-society-of-mind/index.qmd
+    - how-to-solve-it/index.qmd
+    - everything-and-more/index.qmd
+  type: default
+  sort: "title asc"
+  fields: [title, description, author]
+---
+
+Cada proyecto vive en su propia carpeta dentro de `proyectos/` y se renderiza como una sección del sitio. Agregá capítulos como archivos `.qmd` adicionales dentro de cada carpeta y enlazalos desde el `index.qmd` del proyecto.
